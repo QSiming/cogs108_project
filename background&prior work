@@ -3,3 +3,12 @@ Several studies have explored leukemia prediction by examining biological and en
 Genetic studies have also provided valuable insights. Papaemmanuil et al. (2016) identified specific mutations associated with leukemia, while Deschler & Lübbert (2006) explored how workplace hazards contribute to risk. However, most existing research focuses on isolated factors rather than a holistic approach.
 Another prior work is a model predicting leukemia risk using the same dataset as we selected. By performing data cleaning on null values, dropping irrelevant columns like patient ID, and encoding categorical variables to numeric values, this work built a logistic regression model that achieved a 0.84 prediction accuracy on detecting leukemia with features and leukemia results provided in our chosen dataset(Devraai, 2025). Further exploration can be done on trying other models like random forest, or exploring the most relevant feature for leukemia risk detection. 
 Our project aims to integrate blood markers, genetic predisposition, environmental exposures, and socioeconomic factors into a single predictive model. By combining these variables, we hope to improve early detection, prevention, and treatment recommendations, ultimately helping to identify high-risk individuals for early screening and care.
+
+Papaemmanuil et al. (2016) Genomic Classification and Prognosis in Acute Myeloid Leukemia 
+https://www.nejm.org/doi/full/10.1056/NEJMoa1516192
+
+Deschler & Lübbert (2006) Acute myeloid leukemia
+https://pubmed.ncbi.nlm.nih.gov/17019734/
+
+Journal of Hematology & Oncology 
+https://jhoonline.biomedcentral.com/
